@@ -1,0 +1,24 @@
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+[1mdiff --git a/index.html b/index.html[m
+[1mindex fb3b443..929e158 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -12,7 +12,7 @@[m
+     <body>[m
+         <div class="wrapper clearfix">[m
+             <div class="player-0-panel active">[m
+[31m-                <div class="player-name" id="name-0">Player 1</div>[m
+[32m+[m[32m                <div class="player-name" id="name-0">Player: 1</div>[m
+                 <div class="player-score" id="score-0">43</div>[m
+                 <div class="player-current-box">[m
+                     <div class="player-current-label">Current</div>[m
+[36m@@ -21,7 +21,7 @@[m
+             </div>[m
+             [m
+             <div class="player-1-panel">[m
+[31m-                <div class="player-name" id="name-1">Player 2</div>[m
+[32m+[m[32m                <div class="player-name" id="name-1">Player: 2</div>[m
+                 <div class="player-score" id="score-1">72</div>[m
+                 <div class="player-current-box">[m
+                     <div class="player-current-label">Current</div>[m
